@@ -1,0 +1,59 @@
+body{
+    background-image: url(SAUDADES.jpeg);
+    background-size: cover;
+}
+button{
+    margin-right:auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: auto;
+    font-size: 20pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+header{
+    color:white;
+    background-color: black;
+    height: 50px;
+    width: 1300px;
+    font-size: 40px;
+
+}
+.comprar{
+    background-color: yellow;
+    border:none;
+}
+#teste{
+    background-color: yellow;
+    border:none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 23pt;
+    color: black;
+}
+div{
+    background-color: black;
+    height: 60px;
+    width: 150px;
+}
+.Email{
+    border: none;
+}
+div h3:first-child{
+    background-color:brown;
+    font-size: 15pt;
+   
+}
+div h3:nth-child(2){
+    background-color: rgb(87, 25, 25);
+    color: #ffffff;
+    font-size:15pt;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+a{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
